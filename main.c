@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include"include/list.h"
-#include"include/copy.h"
 
 int main() {
 	struct node hello;
